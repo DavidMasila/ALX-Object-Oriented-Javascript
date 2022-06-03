@@ -17,3 +17,11 @@ hare.fur=true;
 hare.speed='fast';
 
 console.log(hare.speed);
+
+//
+const aircraft = {
+    flies: true,
+};
+
+const helicopter = Object.create(aircraft);
+console.log(helicopter.flies);

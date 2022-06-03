@@ -11,7 +11,7 @@ function Animal (name) {
     this.lives = 9;
   };
   
-  Cat.prototype = Object.create(Animal.prototype);
+  Cat.prototype = Object.create(Animal.prototype); //making cat inherit from animal
   
   Cat.prototype.constructor = Cat;
   
