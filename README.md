@@ -1,4 +1,4 @@
-# ALX-Object-Oriented-Javascript
+# Udacity-Object-Oriented-Javascript
 
 Object Oriented Javascript
 <ol>
